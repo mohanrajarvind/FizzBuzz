@@ -1,2 +1,2 @@
-# FizzBuzz
-https://codingdojo.org/kata/FizzBuzz/
+//# FizzBuzz
+//https://codingdojo.org/kata/FizzBuzz/
