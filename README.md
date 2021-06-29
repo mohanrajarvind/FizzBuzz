@@ -2,8 +2,7 @@
 //https://codingdojo.org/kata/FizzBuzz/
 
 
-
-import java.util.stream.IntStream;
+import java.util.Scanner;
 
 public class FizzBuzz 
 {
