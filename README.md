@@ -9,11 +9,11 @@ public class FizzBuzz
 {
     public static void main(String[] args) 
     {
-      FizzBuzz(100);
+      FizzBuzzCode(100);
     }
-    private static void FizzBuzz(int num)
+    private static void FizzBuzzCode(int num)
     {
-        for (int i = 1; i<= 100; i++)
+        for (int i = 1; i<= num; i++)
         {
             if(((i % 5) == 0) && ((i % 3) == 0))
                 System.out.println("fizzBuzz");
